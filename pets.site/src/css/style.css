@@ -1,0 +1,128 @@
+.card{
+    background-color: #4e962a;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+ 
+.main_text{
+    text-align:center;
+}
+
+.card-img-top{
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.footer-color{
+      background-color:	#aeafb5 !important;  
+}
+
+.text-white{
+    color: grey;
+}
+
+.d-block{
+    padding: 40px;
+    filter: brightness(60%)
+}
+ 
+.main-main_text{
+    text-align: center; 
+}
+
+/* .border-bottom{
+  background-color:	#aeafb5 !important;  
+} */
+
+.border-bottom2{
+  background-color:	#f9c985;  
+}
+
+.individua_card{
+    margin-top: 200px;
+    display: flex;
+    margin-left: 580px;
+
+}
+
+form{
+    border: 5px solid;
+    border-color: #4e962a;
+    border-radius: 10px;
+    width: 50%;
+    margin:  0 auto;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: #4e962a;
+}
+main{
+    min-height: 80vh;
+}
+
+#btn_red{
+    width: 150px;
+    height: 60px; 
+    padding: 0%;
+    color: red;
+    position: absolute;
+    right: 0;
+    top: 10;  
+}
+
+.private_card{
+ align-items: center;
+ width: fit-content;
+ margin: 0 auto;
+ margin-top: 50px;
+}
+
+.cardholder{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.App{
+    position: relative;
+}
+
+.border-bottom{
+    margin: auto;
+    height: auto;
+    width: 100%;
+}
+
+.carousel{
+  margin: 0 auto;
+}
+
+.logo {
+    width: 15%;
+}
+
+.navbar-brand {
+    width: 13rem;
+}
+
+.navbar-toggler{
+    background-color: #4e962a;
+}
+
+.nav-link{ 
+    background-color: none !important;
+    color: gray;
+}
+
+li > .nav-link {
+    color: gray !important;
+}
